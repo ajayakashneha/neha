@@ -1,3 +1,81 @@
-p{
-    border: black;
+.gallery{
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.image-countainer{
+    position: relative;
+}
+
+header{
+    background-color:bisque;
+    height: 100PX;
+    text-align: center;
+
+}
+
+nav{
+background-color: aquamarine;
+
+}
+
+body{
+    background-color: bisque;
+}
+
+.foot{
+    background-color:lightslategray;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
+.m1{
+    height: 500px;
+    width: 500px;
+
+}
+.m2{
+    height: 500px;
+    width: 500px;
+
+}
+.m3{
+    height: 500px;
+    width: 500px;
+
+
+}
+.m4{
+    height: 400px;
+    width: 900px;
+
+
+}
+.m8{
+    height: 400px;
+    width: 1000;
+}
+.m9{
+    height: 500px;
+    width: 1300;
+}
+.m5{
+    height: 60px;
+    width: 50px;
+
+
+}
+.m6{
+    height: 60px;
+    width: 50px;
+
+
+}
+.m7{
+    height: 80px;
+    width: 40px;
+
+
 }
